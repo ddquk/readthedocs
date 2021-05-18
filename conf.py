@@ -23,8 +23,11 @@
 import sys
 #reload(sys)
 #sys.setdefaultencoding('utf8')
-import importlib
-importlib.reload(sys)
+#import importlib
+#importlib.reload(sys)
+
+import sys
+reload(sys)
 
 import sphinx_enos_theme
 import m2r
