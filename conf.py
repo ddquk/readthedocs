@@ -30,7 +30,7 @@ importlib.reload(sys)
 #reload(sys)
 
 import sphinx_enos_theme
-import m2r
+import m2r2
 
 # -- General configuration ------------------------------------------------
 
@@ -51,7 +51,7 @@ extensions = [
     'sphinx.ext.ifconfig',
     'sphinx.ext.viewcode',
     'sphinx.ext.githubpages',
-    'm2r']
+    'm2r2']
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
