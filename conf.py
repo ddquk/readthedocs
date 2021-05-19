@@ -129,7 +129,7 @@ html_theme_path = [sphinx_enos_theme.get_html_theme_path()]
 # documentation.
 #
 html_theme_options = {
-    'copyright_en': '© 2021 Envision Digital. All Rights Reserved.   |   <a href="https://developer.envisioniot.com/privacy-policy/" style="color:#8A8B99;">Privacy Policy</a>   <a href="https://developer.envisioniot.com/terms-of-use/" style="color:#8A8B99;">Terms of Use</a>',
+    'copyright_en': '© 楠哥今儿又没去遛弯儿啊？   |   <a href="https://developer.envisioniot.com/privacy-policy/" style="color:#8A8B99;">Privacy Policy</a>   <a href="https://developer.envisioniot.com/terms-of-use/" style="color:#8A8B99;">Terms of Use</a>',
     'product_name': 'Mobile Application Framework',
 
 }
