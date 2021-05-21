@@ -69,7 +69,7 @@ master_doc = 'index'
 # General information about the project.
 project = u'Mobile Application Framework'
 copyright = u'2021, EnOS'
-author = u'Envision Digital'
+author = u'Envision Digital111'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
